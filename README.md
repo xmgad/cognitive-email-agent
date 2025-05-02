@@ -1,6 +1,11 @@
+### 🧑‍💻 Contributors
+
+- [@luaiabuelsamen](https://github.com/luaiabuelsamen) 
+- [@xmgad](https://github.com/xmgad)
+
 # Cognitive Email Ecosystem
 
-A hierarchical agent-based approach to email management that processes emails in layers instead of feeding an entire inbox to a single LLM at once.
+A hierarchical agent-based approach to email management that processes emails in layers instead of feeding an entire inbox to a single LLM at once. Inspired by cognitive science, it treats your inbox not as a flat list of messages but as a dynamic environment enriched by user traits, intent recognition, and social context.
 
 ## Architecture
 
